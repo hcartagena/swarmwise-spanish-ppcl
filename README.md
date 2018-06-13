@@ -1,3 +1,3 @@
 # swarmwise-spanish-ppcl
 
-OmegaT repository for translation of Rick Falkvinge's Swarmwise into Spanish
+OmegaT repository for translating Rick Falkvinge's Swarmwise into Spanish
