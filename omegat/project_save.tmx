@@ -6,10 +6,58 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
-        <seg>SWARMWISE</seg>
+        <seg>&lt;f0&gt;Formally, this book is under copyright monopoly until January 1, 2034 — twenty years from publication.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180619T182523Z" creationid="hcartagena" creationdate="20180619T182523Z">
-        <seg>ENJAMBRE</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T183033Z" creationid="hcartagena" creationdate="20180619T183033Z">
+        <seg>&lt;f0&gt;Formalmente, este libro tiene limitado el derecho de copia hasta el 1 de enero de 2034, es decir, durante veinte años desde su publicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;f0&gt;You are free to make as many copies of this book as you like and share with friends and strangers, as long as you credit the author and you don’t sell them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T182736Z" creationid="hcartagena" creationdate="20180619T182736Z">
+        <seg>&lt;f0&gt;Puede hacer cuantas copias quiera de este libro y compartirlo con amigos y conocidos, siempre que se le dé crédito al autor y no las venda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Actually, you’re not just&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;free&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;to share copies with your friends, but downright&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;encouraged&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;to.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T182834Z" creationid="hcartagena" creationdate="20180619T182834Z">
+        <seg>En realidad, no solo tiene &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;libertad&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;para compartir copias con sus amigos. De plano&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;se lo pido&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you like this book, why shouldn’t you share it with your friends?&lt;/f8&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T182849Z" creationid="hcartagena" creationdate="20180619T182849Z">
+        <seg>Si le gusta este libro, ¿por qué no compartirlo con sus amigos?&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Tactical Manual to Changing the World</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T182542Z" creationid="hcartagena" creationdate="20180619T182542Z">
+        <seg>Manual táctico para cambiar el mundo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The differences from the first print revision are mostly cosmetic.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T182635Z" creationid="hcartagena" creationdate="20180619T182635Z">
+        <seg>Las diferencias con la primera revisión impresa son sobre todo cosméticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This is version 1.1 (first edition, second revision) of Swarmwise.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T182604Z" creationid="hcartagena" creationdate="20180619T182604Z">
+        <seg>Esta es la versión 1.1 (primera edición, segunda revisión) de Swarmwise</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
