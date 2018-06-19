@@ -22,10 +22,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>A heavy sigh is heard on the other end.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185836Z" creationid="hcartagena" creationdate="20180619T185836Z">
+        <seg>En el otro extremo se escucha un hondo suspiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Actually, you’re not just&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;free&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;to share copies with your friends, but downright&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;encouraged&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;to.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T183642Z" creationid="hcartagena" creationdate="20180619T182834Z">
         <seg>En realidad, no solo le otorgamos &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;libertad&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;para compartir copias con sus amigos. De plano lo&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;alentamos&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;a hacerlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>BUILDING</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185901Z" creationid="hcartagena" creationdate="20180619T185901Z">
+        <seg>CREAR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CHAPTER ONE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185911Z" creationid="hcartagena" creationdate="20180619T185911Z">
+        <seg>CAPÍTULO UNO</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I may have a new project in the works here that can potentially take on quite a high profile — &lt;s0/&gt;higher than, say, the Pirate Bay.”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185816Z" creationid="hcartagena" creationdate="20180619T185816Z">
+        <seg>Puede ser que tenga un proyecto nuevo en carpeta que podría tomar mucho vuelo. &lt;s0/&gt;Incluso más que, digamos, the Pirate Bay.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I told the executive.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T184448Z" creationid="hcartagena" creationdate="20180619T184448Z">
@@ -86,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I’ve been thinking of something.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185735Z" creationid="hcartagena" creationdate="20180619T185735Z">
+        <seg>He estado pensando en algo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Library of Congress Control Number : 2013909028</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T184418Z" creationid="hcartagena" creationdate="20180619T184418Z">
@@ -94,10 +134,34 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>PART I</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185858Z" creationid="hcartagena" creationdate="20180619T185858Z">
+        <seg>PARTE I</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>SMARMWISE CONTENTS</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T184545Z" creationid="hcartagena" creationdate="20180619T184545Z">
         <seg>CONTENIDO DE SWARMWISE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SWARM</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185907Z" creationid="hcartagena" creationdate="20180619T185907Z">
+        <seg>ENJAMBRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>THE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185903Z" creationid="hcartagena" creationdate="20180619T185903Z">
+        <seg>EL</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Understanding the Swarm</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185916Z" creationid="hcartagena" creationdate="20180619T185916Z">
+        <seg>Entender el enjambre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>We even shared an apartment once,&lt;s0/&gt;&lt;t1/&gt;a long time ago, where he was subjected to my wild ideas on a daily basis.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T184717Z" creationid="hcartagena" creationdate="20180619T184717Z">
         <seg>Hasta compartimos un departamento una vez, &lt;s0/&gt;&lt;t1/&gt;hace mucho tiempo, donde a diario lo sometía a mis alocadas ideas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>golden rule</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185919Z" creationid="hcartagena" creationdate="20180619T185919Z">
+        <seg>regla de oro</seg>
       </tuv>
     </tu>
     <tu>
@@ -162,6 +242,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T185730Z" creationid="hcartagena" creationdate="20180619T185730Z">
         <seg>“Oye, Richie, ¿te acuerdas de ese proyecto que fue una locura hace poco?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“What has gotten into your mind this time?”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T185853Z" creationid="hcartagena" creationdate="20180619T185853Z">
+        <seg>“¿Qué se te metió en la cabeza ahora?”</seg>
       </tuv>
     </tu>
     <tu>
