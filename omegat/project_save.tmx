@@ -24,8 +24,16 @@
       <tuv lang="EN">
         <seg>Actually, you’re not just&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;free&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;to share copies with your friends, but downright&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;encouraged&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;to.</seg>
       </tuv>
-      <tuv lang="ES" changeid="hcartagena" changedate="20180619T182834Z" creationid="hcartagena" creationdate="20180619T182834Z">
-        <seg>En realidad, no solo tiene &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;libertad&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;para compartir copias con sus amigos. De plano&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;se lo pido&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;.</seg>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T183642Z" creationid="hcartagena" creationdate="20180619T182834Z">
+        <seg>En realidad, no solo le otorgamos &lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;libertad&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;para compartir copias con sus amigos. De plano lo&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;alentamos&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;a hacerlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During that time, it is licensed under a Creative Commons Noncommercial-Attribution 3.0 license, meaning what is said above about free sharing.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T183324Z" creationid="hcartagena" creationdate="20180619T183324Z">
+        <seg>En ese periodo, está protegido por una licencia Creative Commons no comercial-reconocimiento 3.0, que significa lo que acabo de decir sobre la libertad para compartirlo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T182635Z" creationid="hcartagena" creationdate="20180619T182635Z">
         <seg>Las diferencias con la primera revisión impresa son sobre todo cosméticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are the same terms as suggested in the author’s previous book,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;The Case for Copyright Reform&lt;/f2&gt;&lt;f3&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T183353Z" creationid="hcartagena" creationdate="20180619T183353Z">
+        <seg>Estos son los mismos términos que</seg>
       </tuv>
     </tu>
     <tu>
