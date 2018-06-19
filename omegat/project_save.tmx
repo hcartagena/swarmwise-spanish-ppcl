@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commercial exclusive rights rest with the author for the twenty years.&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T184312Z" creationid="hcartagena" creationdate="20180619T184312Z">
+        <seg>Los derechos comerciales exclusivos pertenecen al autor durante este periodo de veinte años.&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>During that time, it is licensed under a Creative Commons Noncommercial-Attribution 3.0 license, meaning what is said above about free sharing.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T183653Z" creationid="hcartagena" creationdate="20180619T183324Z">
@@ -38,10 +46,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I told the executive.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T184448Z" creationid="hcartagena" creationdate="20180619T184448Z">
+        <seg>Le dije al ejecutivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>If you like this book, why shouldn’t you share it with your friends?&lt;/f8&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T182849Z" creationid="hcartagena" creationdate="20180619T182849Z">
         <seg>Si le gusta este libro, ¿por qué no compartirlo con sus amigos?&lt;/f8&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Library of Congress Control Number : 2013909028</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T184418Z" creationid="hcartagena" creationdate="20180619T184418Z">
+        <seg>Número de control de la Biblioteca del Congreso: 2013909028</seg>
       </tuv>
     </tu>
     <tu>
@@ -74,6 +98,38 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T182604Z" creationid="hcartagena" creationdate="20180619T182604Z">
         <seg>Esta es la versión 1.1 (primera edición, segunda revisión) de Swarmwise</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>people who want to work for you for free, and&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T184519Z" creationid="hcartagena" creationdate="20180619T184519Z">
+        <seg>personas que quieren trabajar para ti gratis y&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>you don’t let them.”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T184537Z" creationid="hcartagena" creationdate="20180619T184537Z">
+        <seg>tú no les avisas.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Your most valuable asset is the thousands of&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T184501Z" creationid="hcartagena" creationdate="20180619T184501Z">
+        <seg>“Tu activo más valioso son las miles de&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Your most valuable asset isn’t your employees,”&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180619T184443Z" creationid="hcartagena" creationdate="20180619T184443Z">
+        <seg>“Tu activo más valioso no son tus empleados,”&lt;br0/&gt;</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
