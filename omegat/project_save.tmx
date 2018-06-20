@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I may have a new project in the works here that can potentially take on quite a high profile —  higher than, say, the Pirate Bay.”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045620Z" creationid="hcartagena" creationdate="20180620T045620Z">
+        <seg>Puede ser que tenga un proyecto nuevo en carpeta que podría tomar mucho vuelo. Incluso más que, yo diría, the Pirate Bay.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I may have a new project in the works here that can potentially take on quite a high profile — &lt;s0/&gt;higher than, say, the Pirate Bay.”</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T185816Z" creationid="hcartagena" creationdate="20180619T185816Z">
@@ -189,6 +197,15 @@
       </tuv>
     </tu>
     <tu>
+      <note>revisar que no haya una mala interpretación</note>
+      <tuv lang="EN">
+        <seg>Somewhere today, a loose-knit group of activists who are having fun is dropkicking a rich, established organization so hard they are making heads spin.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T050658Z" creationid="hcartagena" creationdate="20180620T050658Z">
+        <seg>En algún lugar hay un grupo de activistas no muy bien organizados que está pasando un buen rato mientras apalea tan duro a una organización tradicional que algunos ya no lo están resistiendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <tuv lang="EN">
         <seg>THE</seg>
       </tuv>
@@ -242,6 +259,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T185916Z" creationid="hcartagena" creationdate="20180619T185916Z">
         <seg>Entender el enjambre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We even shared an apartment once, a long time ago, where he was subjected to my wild ideas on a daily basis.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045604Z" creationid="hcartagena" creationdate="20180620T045604Z">
+        <seg>Hasta compartimos un departamento una vez, hace mucho tiempo, donde a diario lo sometía a mis alocadas ideas.</seg>
       </tuv>
     </tu>
     <tu>
