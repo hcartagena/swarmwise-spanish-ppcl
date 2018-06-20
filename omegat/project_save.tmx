@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.4_0_10321" segtype="sentence" srclang="EN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Actually, you’re not just &lt;t0/&gt;free&lt;t1/&gt; to share copies with your friends, but downright &lt;t2/&gt;encouraged&lt;t3/&gt; to.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045304Z" creationid="hcartagena" creationdate="20180620T045304Z">
+        <seg>En realidad, no solo le otorgamos &lt;t0/&gt;libertad&lt;t1/&gt; para compartir copias con sus amigos. De plano lo &lt;t2/&gt;alentamos&lt;t3/&gt; a hacerlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Actually, you’re not just&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;free&lt;s3/&gt;&lt;/f2&gt;&lt;f4&gt;to share copies with your friends, but downright&lt;s5/&gt;&lt;/f4&gt;&lt;f6&gt;encouraged&lt;s7/&gt;&lt;/f6&gt;&lt;f8&gt;to.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T183642Z" creationid="hcartagena" creationdate="20180619T182834Z">
@@ -54,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Commercial exclusive rights rest with the author for the twenty years.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045345Z" creationid="hcartagena" creationdate="20180620T045345Z">
+        <seg>Los derechos comerciales exclusivos pertenecen al autor durante este periodo de veinte años.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Commercial exclusive rights rest with the author for the twenty years.&lt;/f3&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T184312Z" creationid="hcartagena" creationdate="20180619T184312Z">
@@ -74,6 +90,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T183653Z" creationid="hcartagena" creationdate="20180619T183324Z">
         <seg>En ese periodo, está protegido por una licencia Creative Commons no comercial-reconocimiento 3.0, que significa lo que acabamos de decir sobre la libertad para compartirlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Formally, this book is under copyright monopoly until January 1, 2034 — twenty years from publication.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045318Z" creationid="hcartagena" creationdate="20180620T045318Z">
+        <seg>Formalmente, este libro tiene limitado el derecho de copia hasta el 1 de enero de 2034, es decir, durante veinte años desde su publicación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106,6 +130,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T184448Z" creationid="hcartagena" creationdate="20180619T184448Z">
         <seg>Le dije al ejecutivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you like this book, why shouldn’t you share it with your friends?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045310Z" creationid="hcartagena" creationdate="20180620T045310Z">
+        <seg>Si le gusta este libro, ¿por qué no compartirlo con sus amigos?</seg>
       </tuv>
     </tu>
     <tu>
@@ -182,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>These are the same terms as suggested in the author’s previous book, &lt;t0/&gt;The Case for Copyright Reform&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045337Z" creationid="hcartagena" creationdate="20180620T045337Z">
+        <seg>Estos son los mismos términos que rigen para el título anterior del autor, &lt;t0/&gt;The Case for Copyright Reform&lt;t1/&gt; (cuya traducción no oficial sería “La necesidad de una reforma al derecho de copia”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>These are the same terms as suggested in the author’s previous book,&lt;s1/&gt;&lt;/f0&gt;&lt;f2&gt;The Case for Copyright Reform&lt;/f2&gt;&lt;f3&gt;.</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T183918Z" creationid="hcartagena" creationdate="20180619T183353Z">
@@ -210,6 +250,14 @@
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T184717Z" creationid="hcartagena" creationdate="20180619T184717Z">
         <seg>Hasta compartimos un departamento una vez, &lt;s0/&gt;&lt;t1/&gt;hace mucho tiempo, donde a diario lo sometía a mis alocadas ideas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You are free to make as many copies of this book as you like and share with friends and strangers, as long as you credit the author and you don’t sell them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045216Z" creationid="hcartagena" creationdate="20180620T045216Z">
+        <seg>Puede hacer cuantas copias quiera de este libro y compartirlo con amigos y conocidos, siempre que se le dé crédito al autor y no las venda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,10 +310,26 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>“Your most valuable asset is the thousands of&lt;t0/&gt;people who want to work for you for free, and&lt;t1/&gt;you don’t let them.&lt;t2/&gt;”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045539Z" creationid="hcartagena" creationdate="20180620T045539Z">
+        <seg>“Tu activo más valioso son las miles de&lt;t0/&gt;personas que quieren trabajar gratis para ti&lt;t1/&gt;y tú no los dejas.&lt;t2/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>“Your most valuable asset isn’t your employees,”&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="ES" changeid="hcartagena" changedate="20180619T184443Z" creationid="hcartagena" creationdate="20180619T184443Z">
         <seg>“Tu activo más valioso no son tus empleados,”&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“Your most valuable asset isn’t your employees,”&lt;t0/&gt;I told the executive.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20180620T045424Z" creationid="hcartagena" creationdate="20180620T045424Z">
+        <seg>“Tu activo más valioso no son tus empleados,” &lt;t0/&gt;le dije al ejecutivo.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
